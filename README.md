@@ -24,7 +24,7 @@ This project:
 
 ---
 
-##🚀 Try It Yourself
+## 🚀 Try It Yourself
 
 The live app is here:
 
