@@ -24,13 +24,6 @@ This project:
 
 ---
 
-## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YourUsername/ChurnApp.git
-cd ChurnApp
-
 ##🚀 Try It Yourself
 
 The live app is here:
