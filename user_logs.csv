@@ -1,0 +1,6 @@
+gender,SeniorCitizen,Partner,tenure,MonthlyCharges,TotalCharges,Prediction,Probability,Timestamp
+Male,0,Yes,12,70.0,500.0,No Churn,0.27,2025-08-08 14:25:24
+Female,0,Yes,1,70.0,1500.0,No Churn,0.46,2025-08-08 14:25:45
+Female,0,Yes,1,150.0,1500.0,Churn,0.58,2025-08-08 14:25:52
+Female,0,Yes,13,150.0,1500.0,No Churn,0.29,2025-08-08 14:28:58
+Female,0,Yes,36,150.0,1500.0,No Churn,0.3,2025-08-08 14:29:03
