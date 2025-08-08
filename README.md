@@ -28,4 +28,4 @@ This project:
 
 The live app is here:
 
-🔗 Telecom Churn Prediction App
+🔗 https://churnapp-6fnnb2v4mdxmdtfrsccgcv.streamlit.app/
